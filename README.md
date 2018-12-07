@@ -71,3 +71,43 @@ The first model i.e. **Custom Embeddings Model** clearly outperfomed all other m
 <br>
 
 The **Averaging Model** has **worst Test accuracy** out of all the models i.e. **89.38%** which was fairly intuitive as the model was pretty basic in the sense that it was not considering the relative positioning of words in the reviews.
+
+## Sample Classifications
+
+This is how the best model out of all four i.e. **Custom Embeddings Model** classified the following self-written reviews :
+
+1. "The taste of the biscuits was quite spectacular. It seemed as if it was taken straight from heaven" 
+    <br>
+
+    **Result :** **Positive** with **99.64%** surity
+2. "Peanuts were too salty according to my taste" 
+    <br>
+    
+    **Result :** **Negative** with **99.84%** surity
+3. "Food was unhygienic. I fell ill after eating" 
+    <br>
+    
+    **Result :** **Negative** with **96.88%** surity
+4. "I am sure I liked what i had"
+    <br>
+    
+    **Result :** **Positive** with **66.48%** surity
+5. "I am not sure I liked what i had"
+    <br>
+    
+    **Result :** **Negative** with **99.47%** surity
+6. "If you are looking for a secret ingredient, go for it"
+    <br>
+    
+    **Result :** **Positive** with **88.35%** surity
+7. "When i first bought this, i was confused about its quality and taste. But after eating this, my children fell in love with me.      Thanks!!"
+    <br>
+    
+    **Result :** **Positive** with **99.54%** surity
+8. "If you are looking for a quality food, dr. oetkers product always seem to be my first choice"
+    <br>
+    **Result :** **Positive** with **94.34%** surity
+9. "I'm not really a tea drinker but my husband is and he loves this tea. So on his behalf I'm recommending it. Just go on with my hubby's recommendation."
+    <br>
+    
+    **Result :** **Positive** with **96.55%** surity
