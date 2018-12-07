@@ -1,5 +1,5 @@
 # Sentiments-Analysis-on-Amazon-Fine-Food-Reviews-Dataset
-This project contains the code for Sentiments Analysis applied on the Amazon Fine Food Reviews Dataset. After the training phase, the model can classify any Food review into a **positive** or a **negative review**.
+This project contains the code for Sentiments Analysis applied on the Amazon Fine Food Reviews Dataset. The model facilitates classification of a Food review into a **positive** or a **negative review**.
 
 ## Dataset
 
