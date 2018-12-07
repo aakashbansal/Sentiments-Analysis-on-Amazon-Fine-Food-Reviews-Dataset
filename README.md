@@ -64,10 +64,10 @@ The **Third** and **Fourth Model** are implemented in **sentiments_analysis_amaz
 
 ## Model Performances
 
-The first model i.e. **Custom Embeddings Model** clearly outperfomed all other models and stood first with the Test Set Accuracy of **94.92%**. 
+The first model i.e. **Custom Embeddings Model** clearly outperfomed all other models and stood **first** with the **Test Set Accuracy** of **94.92%**. 
 <br>
 
-**Word2Vec Model** has second best Test Set accuracy of **93.89%** and **GloVe Embeddings Model** stood third with **93.13%** accuracy.
+**Word2Vec Model** has **second** best **Test Set accuracy** of **93.89%** and **GloVe Embeddings Model** stood **third** with **93.13% accuracy**.
 <br>
 
-The **Averaging Model** has worst Test accuracy out of all the models i.e. **89.38%** which was fairly intuitive as the model was pretty basic in the sense that it was not considering the relative positioning of words in the reviews.
+The **Averaging Model** has **worst Test accuracy** out of all the models i.e. **89.38%** which was fairly intuitive as the model was pretty basic in the sense that it was not considering the relative positioning of words in the reviews.
